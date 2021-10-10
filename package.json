@@ -17,8 +17,11 @@
     "url": "https://github.com/kendoow/typeChain/issues"
   },
   "homepage": "https://github.com/kendoow/typeChain#readme",
-  "dependencies": {},
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  },
   "devDependencies": {
-    "tsc-watch": "^4.5.0"
+    "tsc-watch": "^4.5.0",
+    "typescript": "^4.4.3"
   }
 }
